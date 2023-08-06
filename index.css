@@ -1,0 +1,42 @@
+
+#main-head{
+    color: yellow;
+}
+
+.main-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px;
+    
+    
+}
+
+#btn{
+    background-color: rgb(166, 224, 166);
+    columns: black;
+    padding: 9px;
+    width: 144px;
+    font-size: 20px;
+}
+
+.cent{
+    margin: 23px;
+}
+
+#ip-input{
+    width: 300px;
+    height: 38px;
+}
+
+.info{
+    background-color: rgb(132 242 240);
+    color: black;
+    width: 1000px;
+    height: 400px;
+    text-align: center;
+    border-radius: 14px;
+    padding: 10px;
+   
+}
